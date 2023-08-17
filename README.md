@@ -1,3 +1,6 @@
+# Preface
+I have made modifications to the code in certain areas, such that it now implements a few functionalities from the SDK such as the interpolation and trajectory generation methods. Example codes for this can be found within the 'reachy_pyluos_hal/func_testing.py' python file.
+
 # Python Package for low-level serial communication with Reachy 2021 hardware
 
 This Python package is responsible for communicating with Reachy 2021 hardware. 
